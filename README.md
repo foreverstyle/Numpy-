@@ -1,4 +1,4 @@
-# Numpy-
+# Numpy_learning
 练习python第三方库Numpy
 
 # 学习网站
